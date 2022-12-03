@@ -1,4 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+// req = HTTP incoming message, res = HTTP server response
 import type { NextApiRequest, NextApiResponse } from 'next'
 
 type Data = {
